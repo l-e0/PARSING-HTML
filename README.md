@@ -3,6 +3,7 @@
 PARCING-HTML
 # Steps
 Download the file 
+
 Run the ./parsinghtml file
 
 # Functionality
