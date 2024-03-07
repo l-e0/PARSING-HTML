@@ -2,7 +2,7 @@
 
 PARCING-HTML
 # Steps
-Download the file 
+Download the file <br/>
 Run the ./parsinghtml file
 
 # Functionality
